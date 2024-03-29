@@ -1,0 +1,8 @@
+[1, IT]
+[2, Finance]
+[3, HR]
+[4, Software Architect]
+[5, Marketing]
+[6, Janitorial]
+[7, Manufacturing]
+[8, Secretary]
